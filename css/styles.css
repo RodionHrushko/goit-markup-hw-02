@@ -113,9 +113,6 @@ font-weight: 700;
     color: #2e2f42;
 }
 
-.Advantages-list {
-
-}
 
 .Advantages-item {
 border-radius: 0 0 4px 4px;
@@ -126,9 +123,6 @@ border-radius: 0 0 4px 4px;
         background: #fff;
 }
 
-.Advantages-img {
-
-}
 
 .Advantages-subtitle {
 font-weight: 500;
@@ -177,4 +171,31 @@ font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+}
+
+
+.Our-title {
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+
+.Our-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.Our-item-text {
+font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
