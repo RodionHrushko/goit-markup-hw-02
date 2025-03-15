@@ -16,7 +16,7 @@ a{
 font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -63,12 +63,11 @@ background-color: #2e2f42;;
         color: #fff;
 }
 .main-btn-button {
-    border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #4d5ae5;
+font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
 }
 
 .main-btn{
@@ -99,12 +98,12 @@ background-color: #2e2f42;;
 
 }
 
-.Advantages {
+.advantages {
     background: #f4f4fd;
 
 }
 
-.Advantages-title {
+.advantages-title {
 font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -114,7 +113,7 @@ font-weight: 700;
 }
 
 
-.Advantages-item {
+.advantages-item {
 border-radius: 0 0 4px 4px;
     padding: 0px 0px 32px 0px;
     width: 264px;
@@ -124,7 +123,7 @@ border-radius: 0 0 4px 4px;
 }
 
 
-.Advantages-subtitle {
+.advantages-subtitle {
 font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -133,7 +132,7 @@ font-weight: 500;
     color: #2e2f42;
 }
 
-.Advantages-item-text {
+.advantages-item-text {
 font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -174,7 +173,7 @@ font-weight: 400;
 }
 
 
-.Our-title {
+.our-title {
     font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -184,7 +183,7 @@ font-weight: 400;
 }
 
 
-.Our-subtitle {
+.our-subtitle {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -192,7 +191,7 @@ font-weight: 400;
         color: #2e2f42;
 }
 
-.Our-item-text {
+.our-item-text {
 font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
